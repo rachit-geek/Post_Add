@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "title": "Post 3",
+      "body": " This is Post Three one",
+      "id": 3
+    },
+    {
+      "title": "Post Five",
+      "body": "This is Post Five",
+      "id": 5
+    },
+    {
+      "title": "IT's GOOD",
+      "body": "Feeling Nice after completing the course within the given deadline",
+      "id": 6
+    }
+  ]
+}
